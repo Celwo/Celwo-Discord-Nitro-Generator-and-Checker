@@ -1,0 +1,12 @@
+# __Ouvrez un cmd dans le fichier et executez cette commande__ : 
+
+py -3 -m pip install -r requirements.txt
+
+# __Puis entrez__ :
+
+py -3 main.py
+
+---
+
+By Celwo#4471
+https://discord.gg/vm2uWghVPT
