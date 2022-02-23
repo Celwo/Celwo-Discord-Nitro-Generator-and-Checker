@@ -9,7 +9,7 @@ Offres du Checkeur
 *   ⚙️ Chaques Nitros Valides sont stockés dans un fichier et envoyés sur votre serveur si vous avez entré un webhook.
 
 ## Installation
-
+* Installez [Python](https://www.python.org/downloads/) Puis
 * Ouvrez un cmd dans le fichier (https://cdn.discordapp.com/attachments/943541118941950042/946154878391156736/unknown.png)
 * Entrez `py -3 -m pip install -r requirements.txt` puis appuyez sur Entrée
 * Ensuite entrez `py -3 main.py` et pressez la touche Entrée
