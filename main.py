@@ -23,12 +23,12 @@ import ctypes
 try: # Vérifiez si les éléments requis ont été installés
     from discord_webhook import DiscordWebhook # Essayer d'importer discord_webhook
 except ImportError: # Si elle ne peut être installée
-    input(f"Module discord_webhook not installed, to install run '{'py -3' if os.name == 'nt' else 'python3.8'} -m pip install discord_webhook'\nPress enter to exit") # Indiquer à l'utilisateur qu'il n'a pas été installé et comment l'installer.
+    input(f"Le module discord_webhook n'est pas installé, pour l'installer exécutez '{'py -3' if os.name == 'nt' else 'python3.8'} -m pip install discord_webhook'\nPressez Entrée pour quitter.") # Indiquer à l'utilisateur qu'il n'a pas été installé et comment l'installer.
     exit() # Quitter le programme
 try: # Mise en place d'une instruction try pour attraper l'erreur
     import requests # Essayer d'importer des demandes
 except ImportError: # S'il n'a pas été installé
-    input(f"Module requests not installed, to install run '{'py -3' if os.name == 'nt' else 'python3.8'} -m pip install requests'\nPress enter to exit")# Indiquer à l'utilisateur qu'il n'a pas été installé et comment l'installer.
+    input(f"Le module requests n'est pas installé, pour l'installer exécutez '{'py -3' if os.name == 'nt' else 'python3.8'} -m pip install requests'\nPressez Entrée pour quitter.")# Indiquer à l'utilisateur qu'il n'a pas été installé et comment l'installer.
     exit() # Quitter le programme
 
 
