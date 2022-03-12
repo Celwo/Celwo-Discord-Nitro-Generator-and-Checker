@@ -52,7 +52,7 @@ _________        .__
  \______  /\___  >____/\/\_/ \____/ 
         \/     \/                   
           Par Celwo#4471
-    https://discord.gg/vm2uWghVPT          
+    Join our Discord ! https://discord.gg/cXsCgk37CU          
                                                   
                                                   """) 
         time.sleep(2) # Attendre quelques secondes
