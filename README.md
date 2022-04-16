@@ -17,7 +17,7 @@ Offres du Checkeur
 
 ## Liens
 
-*   [Discord](https://discord.gg/vm2uWghVPT)
+*   [Discord](https://discord.gg/HAWGmStksa)
 *   [Telegram](https://t.me/FlipGen)
 *   [Github](https://github.com/Celwo/)
 
